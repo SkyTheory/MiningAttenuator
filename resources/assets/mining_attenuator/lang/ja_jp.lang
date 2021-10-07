@@ -1,0 +1,4 @@
+# Harvest Attenuator
+
+enchantment.attenuate=減衰
+enchantment.mining_attenuator.attenuate.desc=ブロックを破壊する最大速度をクリエイティブモードと同じ速さにまで制限する

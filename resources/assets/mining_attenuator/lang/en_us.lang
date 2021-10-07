@@ -1,0 +1,4 @@
+# Harvest Attenuator
+
+enchantment.attenuate=Attenuate
+enchantment.mining_attenuator.attenuate.desc=Limit the harvesting speed to the same as in Creative mode.
