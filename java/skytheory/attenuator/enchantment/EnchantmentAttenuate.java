@@ -14,7 +14,7 @@ public class EnchantmentAttenuate extends Enchantment {
 	}
 
 	public int getMinEnchantability(int enchantmentLevel) {
-		return 21;
+		return 31;
 	}
 
 	public int getMaxEnchantability(int enchantmentLevel) {
